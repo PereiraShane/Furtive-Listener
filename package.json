@@ -1,0 +1,11 @@
+{
+	"name": "Furtive Listener",
+	"version": "0.5",
+	"description": "Bot listens in the background",
+	"main": "bot.js",
+	"author": "Shane Pereira",
+	"dependecies": {},
+	"dependencies": {
+		"discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6"
+	}
+}
