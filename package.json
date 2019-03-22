@@ -4,8 +4,11 @@
 	"description": "Bot listens in the background",
 	"main": "bot.js",
 	"author": "Shane Pereira",
-	"dependecies": {},
+	"start": {
+		"node bot.js"
+	},
 	"dependencies": {
-		"discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6"
+		"discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+		"request":"1.0.0"
 	}
 }
